@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-23T12:53:56+00:00",
+  "generated_at": "2026-07-23T13:35:12+00:00",
   "timetable_hash": "eaae04514f391460da8b042e0929c66789e71b06b3a80adf1a2cb9032d014e40",
   "timetable_loaded_at": "",
   "coverage": {
@@ -26,9 +26,9 @@
     "Go-Ahead Ireland"
   ],
   "counts": {
-    "observations": 8516283,
-    "snapshots": 6434,
-    "trips_classified": 62222
+    "observations": 8598144,
+    "snapshots": 6473,
+    "trips_classified": 62583
   },
   "unnamed_routes": [],
   "route_slugs": {
